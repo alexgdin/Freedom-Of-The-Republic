@@ -47,6 +47,7 @@ Built with a retro-inspired visual style and simple but challenging gameplay mec
 ![Gameplay 2](screenshots/gameplay2.png)
 ![Gameplay 3](screenshots/gameplay3.png)
 ![Gameplay 4](screenshots/gameplay4.png)
+![Gameplay 5](screenshots/gameplay5.png)
 
 ---
 

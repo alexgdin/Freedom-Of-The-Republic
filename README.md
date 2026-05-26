@@ -33,13 +33,10 @@ Built with a retro-inspired visual style and simple but challenging gameplay mec
 ---
 
 ## Screenshots
-
-> Add your screenshots inside a `/screenshots` folder and uncomment these lines.
-
-```md
-![Gameplay 1](screenshots/gameplay1.png)
-![Gameplay 2](screenshots/gameplay2.png)
-```
+![Gameplay 1](screenshots/Screenshot 2024-11-30 165051.png)
+![Gameplay 2](screenshots/Screenshot 2024-11-30 164152.png)
+![Gameplay 3](screenshots/Screenshot 2024-11-30 164340.png)
+![Gameplay 4](screenshots/Screenshot 2024-11-30 164430.png)
 
 ---
 
